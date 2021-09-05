@@ -1,7 +1,7 @@
-# ABAKADA SERVER MONITO
+# ABAKADA SERVER MONITOR
 
 ## Server
-to be uploaded
+[to be uploaded]
 
 ## Client
 to install client
